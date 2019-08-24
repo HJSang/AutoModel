@@ -1,5 +1,7 @@
 # Implement Common Models
 ## Logistic Regression
+* Logistic Regression assumeptions:
+  * a) 
 
 ## Linear Regression
 
